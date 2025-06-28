@@ -1,11 +1,14 @@
 function abrirForm(){
+    //Abre outro site.html que esta na mesma pasta em uma nova ABA
     window.open("formulário/index.html", "_blanck")
 }
 
 function abrirLista(){
-    window.location.href = "lista/index.html"
+    //Abre outro site.html que esta na mesma pasta em uma nova ABA
+    window.open("lista/index.html", "_blanck")
 }
 
 function abrirJogoSecreto(){
-    window.open("jogoNumSecreto/index.html")
+    //Abre outro site.html que esta na mesma pasta em uma nova ABA
+    window.open("jogoNumSecreto/index.html", "_blanck")
 }
